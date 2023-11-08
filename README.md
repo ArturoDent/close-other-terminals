@@ -2,6 +2,8 @@
 
 This vscode extension adds a command to the editor tabs' context menu: `Close other Terminals`  
 
+![Close other Terminals demo](images/closeOtherTerminals.gif)
+
 ## Extension Commands
 
 This extension contributes the following command:
