@@ -7,7 +7,8 @@ export function activate(context: vscode.ExtensionContext) {
     // selectedTerminals will be all selected terminals
     // contextTerminal is the terminal that was right-clicked on
     
-    // !selectedTerminals when triggered by Command Palette
+    // !selectedTerminals (no args at all) when triggered by Command Palette
+    // !selectedTerminals (no args at all) when triggered by a keybinding
     
     const activeTerminal = vscode.window.activeTerminal;
     
