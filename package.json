@@ -2,7 +2,7 @@
 	"name": "close-other-terminals",
 	"displayName": "Close Other Terminals",
 	"description": "Close terminals other than current terminal.",
-	"version": "0.0.4",
+	"version": "0.0.5",
   "preview": true,
   "publisher": "ArturoDent",
   "license": "MIT",
